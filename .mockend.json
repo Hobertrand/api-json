@@ -1,4 +1,4 @@
-[
+{
     {
         "id" : 1, 
         "name" : "Alexander Albon",
@@ -139,4 +139,4 @@
         "driver-number": 24,
         "nationnality": "Chinois"
     },
-]
+}
